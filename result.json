@@ -1,0 +1,15 @@
+[
+  {
+    "test": "test_a",
+    "status": "PASSED"
+  },
+  {
+    "test": "test_b",
+    "status": "PASSED"
+  },
+  {
+    "test": "test_c",
+    "status": "FAILED",
+    "error": ""
+  }
+]
